@@ -21,4 +21,4 @@
 8. English
   - school
   - serials
-  - artiles and forums about coding
+  - articles and forums about coding
