@@ -12,6 +12,7 @@ body{
 
 }
 main{
+    z-index: 0;
     position: relative;
     border: black solid 1px;
     max-width: 1024px;
@@ -36,6 +37,7 @@ ol>li:hover>ul{
 }
 
 #animation{
+    z-index: 1;
     position: absolute;
     right: 20px;
     top: 20px;
